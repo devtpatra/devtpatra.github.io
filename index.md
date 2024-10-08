@@ -10,7 +10,7 @@ Tolulope is the best
 
 ---
 
-#### [Internal Blog Post Project](/bank)
+#### [Internal Blog Post Project](/bank3)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
 
