@@ -1,6 +1,6 @@
 # HR Data Analysis
 
-### Research Questions
+## Research Questions
 - Which job title is leaving the most?
 
 - What are the determinants of employee job satisfaction?
