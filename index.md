@@ -6,7 +6,7 @@
 
 #### [HR Data Analysis](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+In this analysis, we take a deeper dive into identifying key factors in employee attrition. 
 
 ---
 
@@ -17,7 +17,7 @@ Tolulope is the best
 ---
 #### [NBA Summer League Analysis](/files/NBA Summer League Analysis.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+For this project, We analyze NBA Summer League data and explore what causes players to become stars or busts.
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
