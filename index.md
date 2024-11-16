@@ -15,7 +15,7 @@ In this analysis, we take a deeper dive into identifying key factors in employee
 Tolulope is the best
 
 ---
-#### [NBA Summer League Analysis](/files/NBA Summer League Analysis.pdf)
+#### [NBA Summer League Analysis](/NBA Summer League Analysis.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, We analyze NBA Summer League data and explore what causes players to become stars or busts.
 
